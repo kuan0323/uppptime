@@ -15,6 +15,8 @@ sites:
     url: https://upptime.js.org/docs/triggers
   - name: JavaTutorial
     url: https://www.tutorialspoint.com/java/index.htm
+  - name: InvalidURL
+    url: https://www.tutorialspo.com/java/index.htm
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
