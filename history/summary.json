@@ -40,9 +40,9 @@
     "url": "https://presidential-hackathon.taiwan.gov.tw",
     "icon": "https://favicons.githubusercontent.com/presidential-hackathon.taiwan.gov.tw",
     "slug": "presidential-hackathon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 2076,
     "timeMonth": 2083,
     "timeYear": 2083,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-18": 0
+    }
   },
   {
     "name": "ATCC",
