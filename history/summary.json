@@ -22,19 +22,19 @@
     "url": "https://coinmarketcap.com/zh-tw/currencies/doggy/",
     "icon": "https://favicons.githubusercontent.com/coinmarketcap.com",
     "slug": "doggy",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "98.69%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 356,
-    "timeDay": 175,
-    "timeWeek": 201,
-    "timeMonth": 356,
-    "timeYear": 356,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 398,
+    "timeDay": 482,
+    "timeWeek": 301,
+    "timeMonth": 398,
+    "timeYear": 398,
     "dailyMinutesDown": {
-      "2022-06-21": 19
+      "2022-06-21": 26
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://upptime.js.org/docs/triggers",
     "icon": "https://favicons.githubusercontent.com/upptime.js.org",
     "slug": "upptime",
-    "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "97.37%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 335,
-    "timeDay": 368,
-    "timeWeek": 362,
-    "timeMonth": 335,
-    "timeYear": 335,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "96.89%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 331,
+    "timeDay": 347,
+    "timeWeek": 353,
+    "timeMonth": 331,
+    "timeYear": 331,
     "dailyMinutesDown": {
-      "2022-06-21": 38
+      "2022-06-21": 45
     }
   },
   {
