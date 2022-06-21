@@ -22,18 +22,20 @@
     "url": "https://coinmarketcap.com/zh-tw/currencies/doggy/",
     "icon": "https://favicons.githubusercontent.com/coinmarketcap.com",
     "slug": "doggy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 368,
-    "timeDay": 185,
-    "timeWeek": 207,
-    "timeMonth": 368,
-    "timeYear": 368,
-    "dailyMinutesDown": {}
+    "time": 356,
+    "timeDay": 175,
+    "timeWeek": 201,
+    "timeMonth": 356,
+    "timeYear": 356,
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   },
   {
     "name": "PresidentialHackathon",
@@ -78,19 +80,19 @@
     "url": "https://upptime.js.org/docs/triggers",
     "icon": "https://favicons.githubusercontent.com/upptime.js.org",
     "slug": "upptime",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 339,
-    "timeDay": 437,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "97.38%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 341,
+    "timeDay": 417,
     "timeWeek": 378,
-    "timeMonth": 339,
-    "timeYear": 339,
+    "timeMonth": 341,
+    "timeYear": 341,
     "dailyMinutesDown": {
-      "2022-06-21": 0
+      "2022-06-21": 38
     }
   },
   {
